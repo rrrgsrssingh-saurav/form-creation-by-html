@@ -1,0 +1,29 @@
+<!Doctype html>
+<html>
+<head>
+   <title> list creation</title>
+</head>
+<body>
+   <ol>
+     <li> Ramsumaran singh</li>
+     <li> gaurav</li>
+     <li> saurav</li>
+     <li> sunny</li>
+    </ol>
+    <ul>
+      <li> roshni</li>
+      <li> rupa</li>
+      <li> reshmi</li>
+    <ul>
+    <dl>
+      <dt> fathers's mobile no is</dt>
+      <dd> 9939618278</dd>
+      <dt> brother's numaber is</dt>
+      <dd> 9572694589</dd>
+      <dt> my number is</dt>
+      <dd> 6295734062</dd>
+    </dl>
+   </body>
+   </html>
+   
+     
